@@ -1,0 +1,14 @@
+{
+    "income": 8100.0,
+    "expenses": [
+        {
+            "amount": 67.9,
+            "category": "bills"
+        },
+        {
+            "amount": 59.99,
+            "category": "bills"
+        }
+    ],
+    "balance": 7972.110000000001
+}
